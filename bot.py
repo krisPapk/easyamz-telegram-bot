@@ -47,9 +47,9 @@ async def contact_info(message: types.Message):
         "📧 Email:toronto@easyamz.ca\n\n"
 
         "🇨🇦 Cochrane, AB (Fulfillment Center)\n"
-        "11-41070 Cook Rd, T4C 3A2\n\n"
+        "11-41070 Cook Rd, T4C 3A2\n"
         "📞 Phone: +1 825 967 5340\n"
-        "📧 Email: hello@easyamz.ca\n"
+        "📧 Email: hello@easyamz.ca\n\n"
         "🌐 Website: https://easyamz.ca"
     )
 
