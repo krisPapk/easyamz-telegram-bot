@@ -42,9 +42,9 @@ async def contact_info(message: types.Message):
         "📍 Locations:\n\n"
         "🇨🇦 Ontario (Fulfillment Center)\n"
         "Paris, ON\n\n"
-        "63 Woodslee Ave, Unit A, N3L 3N6\n\n"
+        "63 Woodslee Ave, Unit A, N3L 3N6\n"
         "📞 Phone: +1 226 577 9352\n"
-        "📧 Email:toronto@easyamz.ca\n"
+        "📧 Email:toronto@easyamz.ca\n\n"
 
         "🇨🇦 Cochrane, AB (Fulfillment Center)\n"
         "11-41070 Cook Rd, T4C 3A2\n\n"
